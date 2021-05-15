@@ -1,45 +1,12 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YenchangChan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
 # About me
-
-```go
-package main
-
-import "fmt"
-
-type Myself struct {
-	Name        string
-	ChineseName string
-	PenName     string
-	Age         int
-	Addr        string
-	Job         string
-	Company     string
-}
-
-func main() {
-	myself := Myself{
-		Name:        "YenchangChan",
-		ChineseName: "陈衍长",
-		PenName:     "禹鼎侯",
-		Age:         30,
-		Addr:        "Pudong,Shanghai",
-		Job:         "Developer",
-		Company:     "eoitek",
-	}
-
-	fmt.Printf("Introduce myself: %v\n", myself)
-}
-```
+![image](https://user-images.githubusercontent.com/43897067/118346919-b3f45c00-b571-11eb-9244-2759110609f3.png)
 
 
-
-# Technology stack
-
-![image-20210311154908866](img/image-20210311154908866.png)
-
-
+# Blogs
+- [segmentfault](https://segmentfault.com/u/yudinghou)
+- [CSDN](https://blog.csdn.net/u010280075)
 
 # Hobby
 
